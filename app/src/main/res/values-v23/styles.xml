@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="AppThemeLight" parent="Theme.AppCompat.Light.DarkActionBar">
+		<!-- Customize your theme here. -->
+		<item name="colorPrimary">@color/colorPrimaryLight</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDarkLight</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="android:windowLightStatusBar">true</item>
+	</style>
+
+	<style name="AppThemeActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+		<!-- Customize your theme here. -->
+		<item name="colorPrimary">@color/colorPrimaryActivity</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDarkActivity</item>
+		<item name="colorAccent">@color/colorPrimary</item>
+		<item name="android:windowLightStatusBar">true</item>
+	</style>
+</resources>

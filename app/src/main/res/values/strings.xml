@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">SampleApp</string>
+
+	<string name="no_network">No Network</string>
+	<string name="please_wait">Please wait…</string>
+
+</resources>
